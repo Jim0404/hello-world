@@ -1,2 +1,4 @@
 # hello-world
-1ST Repository
+
+ihope to become the best in information technology
+today is a new day
